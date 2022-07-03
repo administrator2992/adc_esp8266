@@ -36,7 +36,7 @@ Access Your localhost/IP Server. You can get IP server in your terminal/CMD
 
 ## Installation for ESP8266
 
-If you not ready for micropython, watch this video youtube : 
+If you not ready for micropython, watch this youtube video : 
 
 [![SC2 Video](https://img.youtube.com/vi/CPkzcNIVqPQ/0.jpg)](https://youtu.be/CPkzcNIVqPQ)
 
@@ -51,3 +51,4 @@ If LED in ESP8266 is Blinking faster, your network is correct, if not yet, LED b
 
 Ask the issue/bug this program in Issues Menu : https://github.com/administrator2992/adc_esp8266/issues
 
+Thanks (❁´◡`❁)

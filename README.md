@@ -47,7 +47,7 @@ If you not ready for micropython, watch this youtube video :
 If micropython is ready, copy code in [boot.py](https://github.com/administrator2992/adc_esp8266/blob/dev/micropython-esp8266_code/boot.py) and [main.py](https://github.com/administrator2992/adc_esp8266/blob/dev/micropython-esp8266_code/main.py) in [micropython-esp8266_code](https://github.com/administrator2992/adc_esp8266/tree/dev/micropython-esp8266_code) folder and paste [boot.py](https://github.com/administrator2992/adc_esp8266/blob/dev/micropython-esp8266_code/boot.py) code in file boot.py from ESP8266 and paste [main.py](https://github.com/administrator2992/adc_esp8266/blob/dev/micropython-esp8266_code/main.py) code in file main.py from ESP8266. Change your SSID and password in boot.py and change your IP Server, Port, and Your WRITE API Key in main.py
 
 #### Run Program with Thonny
-Choose start/restart backend (red botton in text "STOP")
+Choose stop/restart backend (red botton in text "STOP")
 
   ![image](https://user-images.githubusercontent.com/57089541/177040003-0c6c41e6-626e-4904-94b4-0510591a6b45.png)
 

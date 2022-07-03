@@ -32,7 +32,7 @@ Run [main.py](https://github.com/administrator2992/adc_esp8266/blob/dev/main.py)
 
 Access Your localhost/IP Server. You can get IP server in your terminal/CMD
 
-  ![Screenshot](https://github.com/administrator2992/adc_esp8266/blob/dev/main.jpg)
+  ![image](https://user-images.githubusercontent.com/57089541/177039989-a64d9472-87dd-4c41-85f7-6777cece2880.png)
 
 Generate READ API Key dan WRITE API Key
 
@@ -49,7 +49,7 @@ If micropython is ready, copy code in [boot.py](https://github.com/administrator
 #### Run Program with Thonny
 Choose start/restart backend (red botton in text "STOP")
 
-  ![Screenshot](https://github.com/administrator2992/adc_esp8266/blob/dev/play.jpg)
+  ![image](https://user-images.githubusercontent.com/57089541/177040003-0c6c41e6-626e-4904-94b4-0510591a6b45.png)
 
 If LED in ESP8266 is Blinking faster, your network is correct, if not yet, LED blinking is not to be faster
 

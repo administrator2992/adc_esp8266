@@ -34,6 +34,10 @@ Access Your localhost/IP Server. You can get IP server in your terminal/CMD
 
   ![Screenshot](https://github.com/administrator2992/adc_esp8266/blob/dev/main.jpg)
 
+Generate READ API Key dan WRITE API Key
+
+  ![image](https://user-images.githubusercontent.com/57089541/177039765-cbbe352b-b345-42fb-89b5-859c4689475d.png)
+
 ## Installation for ESP8266
 
 If you not ready for micropython, watch this youtube video : 

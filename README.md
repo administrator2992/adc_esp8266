@@ -1,6 +1,6 @@
 # Fake ADC ESP8266 API
 
-## How Work This System Program
+## How This System Program Works
 
   ![image](https://github.com/administrator2992/adc_esp8266/blob/dev/flowchart.png)
 

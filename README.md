@@ -53,6 +53,10 @@ Choose start/restart backend (red botton in text "STOP")
 
 If LED in ESP8266 is Blinking faster, your network is correct, if not yet, LED blinking is not to be faster
 
+## DEMO
+
+#### Access IP server following api/adc/<your-readapikey>
+
 Ask the issue/bug this program in Issues Menu : https://github.com/administrator2992/adc_esp8266/issues
 
 Thanks (❁´◡`❁)

@@ -55,7 +55,7 @@ If LED in ESP8266 is Blinking faster, your network is correct, if not yet, LED b
 
 ## DEMO
 
-#### Access IP server following api/adc/'<your-readapikey>'
+#### Access IP server following api/adc/'your-readapikey'
 
 Ask the issue/bug this program in Issues Menu : https://github.com/administrator2992/adc_esp8266/issues
 

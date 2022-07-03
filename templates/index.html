@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADC ESP8266 API</title>
+    <script src="http://code.jquery.com/jquery-3.6.0.js"></script>
+</head>
+<body>
+    <h1>ADC ESP8266 API</h1><br>
+        <h3>API Key Generate</h3>
+    <button onclick="postAPIREAD()">READ</button>
+    <button onclick="postAPIWRITE()">WRITE</button>
+    <h5>READ API KEY&ensp; : 
+        <a id="read">{{ keyread }}</a>
+    </h5>
+    <h5>WRITE API KEY : 
+        <a id="write">{{ keywrite }}</a>
+    </h5>
+    <h5>HINT
+        <p>http://ip:5000/api/adc/apikey</p>
+    </h5>
+    <script>
+        function postAPIREAD() {
+            $.ajax({
+                type: "POST",
+                url: "",
+                data: {"action1" : "READ"}
+            }).done(function(r){
+                $("#read").html(r);
+            });
+        }
+        function postAPIWRITE() {
+            $.ajax({
+                type: "POST",
+                url: "",
+                data: {"action2" : "WRITE"}
+            }).done(function(r){
+                $("#write").html(r);
+            });
+        }
+    </script>
+</body>
+</html>
